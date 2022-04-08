@@ -1,0 +1,14 @@
+#load {
+  border: 15px solid rgb(112, 7, 7);
+  border-radius: 16px;
+  width: 350px;
+  height: 500px;
+  text-align: center;
+  margin: auto;
+  padding: 5%;
+  overflow: scroll;
+}
+
+#load p {
+  font-size: 2em;
+}
